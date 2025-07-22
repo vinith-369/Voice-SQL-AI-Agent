@@ -67,8 +67,8 @@ sql_agent = create_sql_agent(
     verbose=True,
 )
 
-st.set_page_config(page_title="SQL Query AI Agent", page_icon="🧠", layout="wide")
-st.title("🧠 SQL Query AI Agent with Voice and File Upload")
+st.set_page_config(page_title="SQL Query AI Agent", layout="wide")
+st.title("SQL Query AI Agent with Voice")
 st.markdown("Upload CSV files to build your database, then query using natural language or voice input.")
 
 
