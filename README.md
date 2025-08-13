@@ -20,5 +20,5 @@ A Streamlit-based application that allows users to upload CSV files, build a SQL
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone "https://github.com/vinith-369/Voice-SQL-AI-Agent.git"
 cd Voice-SQL-AI-Agent
